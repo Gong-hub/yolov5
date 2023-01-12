@@ -1,3 +1,3 @@
 from detect import run
 
-run(weights="yolov5s.pt")
+run(source=0,weights="yolov5s.pt")
