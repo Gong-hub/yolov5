@@ -1,3 +1,3 @@
 from detect import run
 
-run()
+run(source=0)
